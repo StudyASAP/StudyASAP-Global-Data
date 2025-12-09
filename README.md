@@ -1,7 +1,3 @@
-Here is a clean, professional **README.md** ready to paste directly into your new repo:
-
----
-
 # StudyASAP Global Data
 
 Centralized datasets powering the **American Study Abroad Program (StudyASAP)**—including FAFSA-eligible institutions, Post-9/11 GI Bill foreign institutions, tuition benchmarks, visa requirements, and international study analytics.
@@ -108,7 +104,3 @@ All contributions must adhere to data accuracy and sourcing standards (see `/doc
 
 Learn more:
 [https://www.amabroad.net](https://www.amabroad.net)
-
----
-
-If you want, I can also create the **data dictionary**, folder structure, or the first CSV templates for you to upload.
